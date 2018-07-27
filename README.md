@@ -6,7 +6,8 @@ A straightforward calculator that does the basic operations (addition, subtracti
 The calculator is based on user input. The program will ask you for two numbers and an operation you want the program to do. As the program starts, it will ask you for the first number of your math problem. Upon entering the first number,the user will be introduced with a list of all the operations the calculator can do. 
 
 All the user would do is choose the letter that matches the operation they want to do.
-``
+
+```
 a) Addition
 b) Subtraction
 c) Multiplication
